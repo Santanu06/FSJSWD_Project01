@@ -1,0 +1,136 @@
+.container{
+    margin: 50px;
+    height: 700px;
+}
+.navbar-container div{
+    display: inline-block;
+}
+.list{
+    text-align: center;
+}
+li{
+
+    display: inline-block;
+    padding: 20px;
+    font-style:normal;
+    font-weight: bold;
+    
+}
+
+.button-group{
+    position: absolute;
+    right: 50px;
+    margin-top: 10px;
+}
+
+.nav-button{
+    background-color: azure;
+    width: 130px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div ul{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -40px;
+}
+
+.search-icon{
+    position: absolute;
+    margin-top: 6px;
+    right: 150px;
+}
+
+ .hero-container-left img{
+    width: 400px;
+ }
+ .hero-container-left{
+    position: absolute; 
+    /* margin-top: -350px; */
+}
+
+ .hero-container .square {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 150px;
+} 
+.hero-container .square img{
+    width: 300px;
+}
+.hero-container {
+    margin-top: 80px;
+}
+
+.star{
+    position: absolute;
+    right: 50px;
+}
+
+.globe{
+    position: absolute;
+    left: 700px;
+    top: 150px;
+}
+
+.hero-heading{
+    position: absolute;
+    right: 120px;
+    top: 260px;
+    font-size: 60px;
+}
+
+.hero-description{
+    position: absolute;
+    right: 150px;
+    top: 400px;
+    width: 550px;
+    color:#686161;
+}
+
+.email-join-btn{
+    position: absolute;
+    right: 350px;
+    top:550px;
+}
+.button-email{
+    border-radius: 8px;
+    padding: 5px 15px;
+    color:#686161;
+    border: 1px solid #686161;
+}
+.button-join{
+    border-radius: 8px;
+    padding: 5px 5px;
+    background-color: #000;
+    color: #fff;
+    margin-left: 10px;
+}
+
+
+.star2{
+    position: absolute;
+    right: 650px;
+    bottom: -100px;
+}
+
+.star2 img{
+    width: 50px;
+}
+
+.hero-container-right .contact-heading{
+    position: absolute;
+    right: 400px;
+    top: 650px;
+    color:#686161;
+}
+
+.icons{
+    position: absolute;
+    right: 300px;
+    top: 700px;
+}
+
+.icons-span{
+    margin-right: 20px;
+}
